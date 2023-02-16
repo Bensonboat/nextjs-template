@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Overview
+
+This is a front-end template using
+
+- Next.js
+- redux
+- redux-tool
+- sass
+
 ## Getting Started
 
 First, run the development server:
